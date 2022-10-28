@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+}
+ul,li{
+    color: tomato;
+    display: inline;
+}
+ol, li{
+    display: lock;
+}

@@ -1,0 +1,8 @@
+
+h1{
+    color: orangered;
+}
+ul, li{
+    color: blue;
+    display: block;
+}
